@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/isnan-el-sady-0736a2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mocharienugroho" height="30" width="40" /></a>
-<a href="https://instagram.com/le_sady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moch_arie_n" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/isnan-el-sady-0736a2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IES" height="30" width="40" /></a>
+<a href="https://instagram.com/le_sady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="le_sady" height="30" width="40" /></a>
 <a href="https://medium.com/@arienugroho650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arienugroho650" height="30" width="40" /></a>
 </p>
 
