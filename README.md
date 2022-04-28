@@ -1,4 +1,4 @@
-# Greetings, I'm EL Sady 👋 
+## Greetings, The Names's EL Sady 👋 
 
 ## A person of Aspiring Data Scientist and Data Enthusiast.
 
