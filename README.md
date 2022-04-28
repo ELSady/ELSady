@@ -1,6 +1,6 @@
 <h2 align="center">Greetings <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, The Name's Isnan El Sady</h2> 
 <h3 align="center">A person of Aspiring Data Scientist and Data Enthusiast</h3>   
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">   
+<img align="right" alt="Coding" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed>   
 
 - 🔭 Subjects of Interest include Technology, Fitness and Health, Automotive, Sport
 - 📫 You can contact and reach me at **Elsadyxv@gmail.com**
