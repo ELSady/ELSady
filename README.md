@@ -3,8 +3,9 @@
 ## A person of Aspiring Data Scientist and Data Enthusiast.
 
 - 🔭 Subjects of Interest include Technology, Fitness and Health, Automotive, Sport
-- 📫 How to reach me **Elsadyxv@gmail.com**
+- 📫 You can contact and reach me at **Elsadyxv@gmail.com**
 - ⚡ Fun fact **I'm lowkey into music istrument**
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
